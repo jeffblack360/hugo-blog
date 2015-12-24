@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Golang on Welcome to jeffblack360 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>/tags/golang/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 22 Dec 2015 09:46:25 CST</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Tue, 22 Dec 2015 09:46:25 CST</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>&lt;p&gt;My first post using Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
