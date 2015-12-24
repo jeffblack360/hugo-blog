@@ -1,3 +1,19 @@
+baseurl = "http://jb360.x10host.com"
 languageCode = "en-us"
-title = "Welcome to jeffblack360"
+title = "Jeff Black"
+author = "Jeff Black"
 theme = "hugo-uno"
+builddrafts = false
+
+[indexes]
+    category = "categories"
+    tag = "tags"
+[Params]
+    AuthorName = "Jeff"
+    github = "jeffblack360"
+    bitbucket = "jeffblack360"
+    twitter = "jeffblack360"
+    email = "jeffrey.black@yahoo.com"
+    description = "Collected thoughts on tech."
+    linkedin = "jeffreyblack"
+    logo = "/images/indy-to-austin.jpg"

@@ -1,11 +1,13 @@
 +++
-Categories = ["Development", "GoLang"]
+Categories = ["Development", "PHP"]
 Description = ""
-Tags = ["Development", "golang"]
+Tags = ["Development", "PHP", "CakePHP"]
 date = "2015-12-22T09:46:25-06:00"
 menu = "main"
-title = "welcome"
+title = "Contributing to CakePHP Documentation"
 
 +++
 
-My first post using Hugo.
+I started a quest in 2015 to learn modern PHP development. After a long hiatus from PHP I thought I’d give it another look.  I did some web development with PHP around 2005 but became involved in other things and got away from it. Earlier this year I decided to take a look and see where things were these days and was very surprised to see how far it has come.  Many of the features I’d used and read about in other languages were now available in the PHP ecosystem.  I decided to start spending as much time as possible getting acquainted with some of the frameworks and of course Composer.
+
+I started working with Laravel and really like it. The features remind me of the Java + Spring + Hibernate platform that I’ve used. It felt familiar.  I also started reading up on Propel, Symfony2 and CakePHP.  For no particular reason I’ve been spending some time lately working my way through the CakePHP documentation and tutorials.  I spotted a few typos and began contributing to the documentation.  It’s nothing really — just clarifying a few points here and there, or fixing the occasional typo — but I’ve been having fun doing it.  I’ve dabbled with contributing to other Open Source projects but I’ve never quite found a home yet.  I like the CakePHP framework a lot.  We’re still getting acquainted but the community feels inviting and I’d like to be able to contribute to the core system someday if possible.  It’ll take some time I’m sure.  In the mean time I’m going to continue my quest to learn all I can about developing web applications using Modern PHP and CakePHP in particular.  Like I said, I really like Laravel but I’m going to see where the CakePHP thing goes.
